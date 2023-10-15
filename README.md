@@ -1,2 +1,2 @@
-# Porjekt_teljes
+# Prjekt_teljes
 Ide kerül az egész projekt!
